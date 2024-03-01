@@ -1,0 +1,62 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #171717;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.text-center {
+    margin-top: 20vh;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.name {
+    color: #BADC8D;
+}
+
+.course {
+    color: #F0F8FF;
+}
+
+.section {
+    color: #BADC8D;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.ptag {
+    font-size: 24px;
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #F0F8FF;
+}
+
+a {
+    color: #BADC8D;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+    a:hover {
+        color: #00df9a;
+        opacity: 80%;
+    }

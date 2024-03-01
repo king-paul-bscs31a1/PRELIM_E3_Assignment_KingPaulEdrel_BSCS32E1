@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRELIM_E3_Assignment_KingPaulEdrel_BSCS32E1.props" />
+</Project>

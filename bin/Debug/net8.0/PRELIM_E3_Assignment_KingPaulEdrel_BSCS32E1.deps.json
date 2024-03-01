@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRELIM_E3_Assignment_KingPaulEdrel_BSCS32E1/1.0.0": {
+        "runtime": {
+          "PRELIM_E3_Assignment_KingPaulEdrel_BSCS32E1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRELIM_E3_Assignment_KingPaulEdrel_BSCS32E1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
